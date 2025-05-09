@@ -1,0 +1,4 @@
+</html>host, -h	stringredocly preview-docs <api>
+redocly preview-docs <api> [--config=<path>] [--port=<value>] [--host=<host>]
+redocly preview-docs <api> [--force] [--help] [--version]
+redocly preview-docs <api> --version
